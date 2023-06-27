@@ -4,7 +4,9 @@ Library    RPA.Browser.Selenium        auto_close=${False}
 # auto_close=${FALSE} para que no se cierre cuando termine
 Library    RPA.HTTP
 Library    RPA.Excel.Files
-Library    RPA.PDF
+Library    RPA.PDF  
+Library    RPA.Tables
+
 
 
 *** Tasks ***
