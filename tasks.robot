@@ -18,7 +18,6 @@ Insert the sales data for the week and export it as a PDF
     Export the table as a PDF
     [Teardown]    Log out and close the browser
 
-
 *** Keywords ***
 Open the intranet website
     [Documentation]    Hola juan esto es una pruebecita de gitttttttt ":)" 
