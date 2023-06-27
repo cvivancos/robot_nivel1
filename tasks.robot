@@ -21,12 +21,13 @@ Insert the sales data for the week and export it as a PDF
 
 *** Keywords ***
 Open the intranet website
-    [Documentation]    Hola juan esto es una pruebecita de gitttttttt ":)"
+    [Documentation]    Hola juan esto es una pruebecita de gitttttttt ":)" 
     Log    Abriendo el navegador
     Open Available Browser    https://robotsparebinindustries.com/
 
 
 Log in
+    [Documentation]    Mas cositas estoy harta
     Log    Haciendo el login
     Input Text    username    maria
     Input Password    password    thoushallnotpass
