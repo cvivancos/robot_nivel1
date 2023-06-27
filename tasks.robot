@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Insert the sales data for the week and export it as a PDF
+Documentation       Insert the sales data for the week and export it as a PDF y más cositas :(
 Library    RPA.Browser.Selenium        auto_close=${False}
 # auto_close=${FALSE} para que no se cierre cuando termine
 Library    RPA.HTTP
